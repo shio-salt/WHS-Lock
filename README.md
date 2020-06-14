@@ -41,6 +41,7 @@
   + 理論上、単3電池4本で20日程度持つ。(1日2時間動作していると仮定した場合)
 
 - アプリ
+　+ https://github.com/shio-salt/S-App-Alpha
 
 ### 動画
 https://www.youtube.com/watch?v=2w3Ie2t5ZWQ
